@@ -3,7 +3,7 @@
 ## Index
 
 - [About the project](#about-the-project)
-<!-- -   [Deploy](#deploy) -->
+- [Deploy](#deploy)
 - [Technologies and tools used](#technologies-and-tools-used)
 - [Starting the project](#starting-the-project)
 
@@ -23,12 +23,12 @@ Challenge proposed by Bootcamp [React Web Developer](https://web.digitalinnovati
 
 <br>
 
-<!-- ## Deploy
+## Deploy
 
 Deploy link:
-[Deploy](https://carlosdoria.github.io/clone-home-page-instgram/)
+[Deploy](https://carlosdoria.github.io/clone-netflix/)
 
-<br> -->
+<br>
 
 ## 🚀 Technologies and tools used
 
